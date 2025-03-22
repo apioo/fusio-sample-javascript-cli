@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "fusio-sdk": "^5.1.15"
+  }
+}
